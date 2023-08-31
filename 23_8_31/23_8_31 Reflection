@@ -1,5 +1,5 @@
-1.
-scanf("%d", &n);
+### scanf("%d", &n);
 "&"要記得加啊! 不要一直忘記!
 
-2.
+
+### float vs. double
