@@ -1,4 +1,4 @@
-# learn_c
+# Learn_c
 用於記錄C語言的學習
 
 #### book資料夾
