@@ -1,6 +1,6 @@
 ### 技巧整理
 #### 1.char
-link. [ASCLL](https://github.com/XuJudy/learn_c/blob/7567c2cd7634ea0da4bab078b2ed3e40e4d66e7f/23_09_04/test/ASCLL.c)(https://github.com/XuJudy/learn_c/blob/7567c2cd7634ea0da4bab078b2ed3e40e4d66e7f/23_09_04/test/B2005.c)
+link. [ASCLL](https://github.com/XuJudy/learn_c/blob/7567c2cd7634ea0da4bab078b2ed3e40e4d66e7f/23_09_04/test/ASCLL.c) | [B2005](https://github.com/XuJudy/learn_c/blob/7567c2cd7634ea0da4bab078b2ed3e40e4d66e7f/23_09_04/test/B2005.c)
 | [P5704](https://github.com/XuJudy/learn_c/blob/7567c2cd7634ea0da4bab078b2ed3e40e4d66e7f/23_09_04/test/P5704.c)
 
 
