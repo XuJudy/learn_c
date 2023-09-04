@@ -19,6 +19,7 @@ int main(){
         time = time - 24*60;
     }
 
+    //轉換成x小時y分鐘
     while (time>=60){
 
         hr++;
