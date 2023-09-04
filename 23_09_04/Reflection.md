@@ -1,8 +1,7 @@
 ### 技巧整理
 #### 1.char
-link. [ASCLL]([23_09_04/test/ASCLL.c](https://github.com/XuJudy/learn_c/blob/e770b5212e79f72831403918c702c4e4f26003d9/23_09_04/test/B2005.c)) 
-| [B2005]([23_09_04/test/B2005.c](https://github.com/XuJudy/learn_c/blob/e770b5212e79f72831403918c702c4e4f26003d9/23_09_04/test/B2005.c)) 
-| [P5704](23_09_04/test/P5704.c](https://github.com/XuJudy/learn_c/blob/7567c2cd7634ea0da4bab078b2ed3e40e4d66e7f/23_09_04/test/P5704.c))
+link. [ASCLL](https://github.com/XuJudy/learn_c/blob/7567c2cd7634ea0da4bab078b2ed3e40e4d66e7f/23_09_04/test/ASCLL.c)(https://github.com/XuJudy/learn_c/blob/7567c2cd7634ea0da4bab078b2ed3e40e4d66e7f/23_09_04/test/B2005.c)
+| [P5704](https://github.com/XuJudy/learn_c/blob/7567c2cd7634ea0da4bab078b2ed3e40e4d66e7f/23_09_04/test/P5704.c)
 
 
 #### 2.向上取整 ceil()
