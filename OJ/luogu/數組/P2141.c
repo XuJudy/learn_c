@@ -42,7 +42,7 @@ int main(){
                 
                 ans = num[k];
 
-                if(ans==num[i]+num[j] && ans!=num[i] && ans!=num[j] && add[ans]==0){
+                if(ans==num[i]+num[j] && add[ans]==0){
 
                     sum++;
                     add[ans] = 1;
